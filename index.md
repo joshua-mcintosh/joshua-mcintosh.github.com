@@ -6,9 +6,8 @@ tagline: of the California Bay Area
 {% include JB/setup %}
 
 ## Hi!
-----
 
-<div class='content'>
+<div class='mycontent'>
 <div class='row-fluid' >
 <div class='span4'>
 <p>I am a young linux admin that aspires to be an engineer.
@@ -55,7 +54,11 @@ My drawback in that is that I'm not necessarily artistically inclined<big><stron
 information is that it might be seen as unprofessional, I suppose—but I also want whoever reads this to 
 get a holistic view of who I am, both professionally and personally.</p>
 
-<p>Also, the fact that It uses github--and thus requires knowledge of an scm--can only work in my favor.</p>
+<p>Also, the fact that It uses github--and thus requires knowledge of an scm--can only work in my favor.
+To keep in the spirit of this, I dont have a comments section on the site--however, if you have anything
+you'd like to point out or say, use github issues and make a commit to whichever post, appending the information
+you'd like to change (or add to) as a `&lt; blockquote &gt;`. If you're faithful to that, and I deem 
+the content worthy, I'll update the post.</p>
 </div>
 
 </div>
