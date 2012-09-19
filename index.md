@@ -44,11 +44,11 @@ My drawback in that is that I'm not necessarily artistically inclined<big><stron
 </ol>
 </div>
 <div class='span4'>
-I'll try not to make this too much like a dating profile, but I'm not sure what all I will 
-put here. I figure I could put up plenty of information about my github projects (though I dont
-have many yet), or I could put down personal information. My biggest concern about personal information
-is that it might be seen as unprofessional, I suppose—but I also want whoever reads this to get a holistic
-view of who I am, both professionally and personally.
+<p>These github pages are host to both my github projects and my personal blog. My biggest concern about personal 
+information is that it might be seen as unprofessional, I suppose—but I also want whoever reads this to 
+get a holistic view of who I am, both professionally and personally.</p>
+
+<p>Also, the fact that It uses github--and thus requires knowledge of an scm--can only work in my favor.</p>
 </div>
 
 </div>
