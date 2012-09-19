@@ -21,12 +21,12 @@ My drawback in that is that I'm not necessarily artistically inclined<big><stron
 </div>
 
 <div class='span4 pull-right'>
-<div class="lightbox fade" id="demoLightbox" style="display: none;">
+<div class="lightbox fade" id="lightbox-me" style="display: none;">
 <div class='lightbox-content'>
 	<img  src='assets/images/me.jpg' class='img-polaroid'/>
 </div>
 </div>
-<a data-toggle="lightbox" href="#demoLightbox">
+<a data-toggle="lightbox" href="#lightbox-me">
 <img  src='assets/images/me_thumb.jpg' class='img-polaroid'/>
 </a>
 <h6><small>Me, December 2011</small></h6>
