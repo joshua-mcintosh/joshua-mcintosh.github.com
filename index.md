@@ -1,46 +1,58 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Josh McIntosh
+tagline: of the California Bay Area
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## Hi!
+----
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+<div class='content'>
+<div class='row-fluid' >
+<div class='span4'>
+<p>I am a young linux admin that aspires to be an engineer.
+I am an Arch Linux user and enthusiast, a Redhat Admin, and programmer (mostly for
+administration tasks).</p>
+<br>
+<p>In addition, I have been known to do small time web development, using some tools.
+My drawback in that is that I'm not necessarily artistically inclined<big><strong>*</strong></big>.</p>
 
-## Update Author Attributes
+</div>
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
+<div class='span4 offset2'>
+<img  src='assets/images/me.jpg' class='img-polaroid'/>
+<h6><small>Me, December 2011</small></h6>
+</div>
+</div>
+<hr>
+<div class='row-fluid'>
+<div class='span2'>
+<h5>Sort by:</h5>
+<ul>
+	{% assign pages_list = site.pages %}
+	{% assign group = 'nonavigation' %}
+	{% include JB/pages_list %}
 </ul>
+</div>
+<div class='span5'>
+<h3> latest posts</h3>
+<ol>
+	{% for post in site.posts limit:5 %}
+		<li markdown=''>[({{post.date | date:"%Y-%m-%d"}}) {{ post.title}}]({{ post.url }})</li>
+	{% endfor %}
+</ol>
+</div>
+<div class='span4'>
+I'll try not to make this too much like a dating profile, but I'm not sure what all I will 
+put here. I figure I could put up plenty of information about my github projects (though I dont
+have many yet), or I could put down personal information. My biggest concern about personal information
+is that it might be seen as unprofessional, I suppose—but I also want whoever reads this to get a holistic
+view of who I am, both professionally and personally.
+</div>
 
-## To-Do
+</div>
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+<hr>
+<h6><small> <big>__\*__</big> This wonderful layout is provided by Twitter bootstrap and more. Just look down at the footer.</small></h6>
+</div>
