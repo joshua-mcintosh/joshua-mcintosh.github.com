@@ -1,0 +1,2 @@
+<script src='{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js'></script>
+<script src='{{ ASSET_PATH }}/bootstrap/js/bootstrap-lightbox.js'></script>
