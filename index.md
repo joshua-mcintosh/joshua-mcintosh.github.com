@@ -16,7 +16,7 @@ I am an Arch Linux user and enthusiast, a Redhat Admin, and programmer (mostly f
 administration tasks).</p>
 <br>
 <p>In addition, I have been known to do small time web development, using some tools.
-My drawback in that is that I'm not necessarily artistically inclined<big><strong>*</strong></big>.</p>
+My drawback in that is that I'm not necessarily artistically inclined<big><strong>*</strong></big>: don't expect me to know my way around photoshop just yet.</p>
 
 </div>
 
