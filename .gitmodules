@@ -1,6 +1,7 @@
 [submodule "assets/themes/twitter"]
 	path = assets/themes/twitter
 	url = git@github.com:jjosh-mcintosh/jekyll-bootstrap-twitter-theme.git
-[submodule "resume"]
-	path = resume
+
+[submodule "projects/resume"]
+	path = projects/resume
 	url = git@github.com:jjosh-mcintosh/resume.git
