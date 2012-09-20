@@ -4,7 +4,7 @@ title: "DWM: My custom configuration"
 tagline: "Steps, hints and things to customize"
 description: "My dwm configuration, on archlinux—with all kinds of fun stuff backed in"
 category: Programming
-tags: [dwm,linux,programming,c,arch]
+tags: [ dwm, linux, programming, c, arch ]
 ---
 {% include JB/setup %}
 

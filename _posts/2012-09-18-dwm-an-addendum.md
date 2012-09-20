@@ -3,7 +3,7 @@ layout: post
 title: "DWM: an addendum"
 description: "A little bit more information for configuring dwm."
 category: Programming
-tags: [dwm,linux,programming]
+tags: [ dwm, linux, programming ]
 ---
 {% include JB/setup %}
 
