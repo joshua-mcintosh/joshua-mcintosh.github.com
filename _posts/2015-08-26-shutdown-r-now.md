@@ -1,6 +1,6 @@
 ---
 layout: post
-title: joshua:~$ init 6
+title: ~ <span>&Gt;</span> shutdown -r now
 ---
 
 Seeing as I am getting back to having fun technical things to talk about again,
@@ -22,16 +22,19 @@ interested in real-time monitoring, though I'm currently in a non-standard
 environment for that sort of information.
 
 In my free time, I'm trying to keep my house tidy and be a loving Husband to my
-wife Nicole. My current opportunity at work is a great one (I'm currently a
-contractor hoping for a full-time position), but I spend a lot of time in
-commute due to how far away work is. Still, we are able to make the best of our
-evenings and weekends.
+wonderful wife Nicole. My current opportunity at work is a great one (I'm
+currently a contractor hoping for a full-time position), but I spend a lot of
+time in commute due to how far away work is. Still, we are able to make the
+best of our evenings and weekends.
 
 While I can't guarantee much about what I might talk about (or how often I'll
 write up a post), I'll try to keep any readers up to date on interesting
-information.
+information. I think that in the short-term, I'll do some write ups on my
+dotfiles--not because they're especially, erm, special, but because it's good
+to be able to explain things like that. Additionally, I could introduce someone
+to commands or configuration they like, can't discount that.
 
 ---
-Thanks for reading,
+Thanks for reading, and perhaps I'll come up with more to read.
 
-Josh  
+Josh
