@@ -11,4 +11,7 @@ There are some interesting applications out there. for example:
 
 # Linux
 
+## Editors
 * [vim](http://www.vim.org/): Yep, I err on the side of vim in emacs v. vim.
+* [ed](http://www.gnu.org/software/ed): Is it a joke? Is it a serious editor?
+  You decide.
